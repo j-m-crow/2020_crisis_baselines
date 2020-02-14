@@ -1,0 +1,1 @@
+This directory contains per-crisis data obtained by rehydrating CLT26 on 2018.06.06. Files comprise both the annotated and background Tweets per-crisis.
